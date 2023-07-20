@@ -1,3 +1,12 @@
+01-calculator
+https://codepen.io/Alice_Blake/pen/eYQKMBM
+
+02-notes
+https://codepen.io/Alice_Blake/pen/PoxaRbP
+
+03-date
+https://codepen.io/Alice_Blake/pen/jOQKzMm
+
 04-users
 https://codepen.io/Alice_Blake/pen/zYMaWrj
 
